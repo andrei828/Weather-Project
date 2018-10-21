@@ -1,0 +1,48 @@
+35
+37
+23.07.2017
+Sunday
+5:26
+20:12
+mostly clear
+36
+22
+S
+7.2
+24.07.2017
+Monday
+5:27
+20:11
+mostly clear
+36
+22
+S
+7.2
+25.07.2017
+Tuesday
+5:28
+20:10
+prevailingly cloudy
+25
+18
+SE
+3.6
+26.07.2017
+Wednesday
+5:29
+20:09
+prevailingly cloudy
+24
+19
+N
+0.7200000000000001
+27.07.2017
+Thursday
+5:30
+20:08
+partly cloudy
+26
+16
+NW
+3.6
+Paris
